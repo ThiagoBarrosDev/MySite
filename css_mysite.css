@@ -1,0 +1,48 @@
+body{
+            margin: 0px;
+            text-align: center;
+            font-family: 'Montserrat', sans-serif;
+}
+h1{
+            margin: 50px auto 0 auto;
+            text-align: center;
+            padding-top: 5%;
+            font-family: 'Sacramento', cursive;
+            color: #66bfbf;  
+            font-size: 5.625rem;
+            line-height: 110px;
+}
+.container  {
+            background-color: #e4f9f5;
+            padding-top: 6%;
+}
+
+.top-cloud{
+            position: absolute;
+            padding-left: 20%;
+}
+.bottom-cloud{
+            position: absolute;
+            text-align: -webkit-auto;
+            margin-left: -7%;
+            padding-top: 3%;
+}
+
+h2{
+            margin: 0 auto 0 auto;
+            font-family: 'Sacramento', cursive;
+            color:  #66bfbf;  
+            font-size: 2.3rem;
+}
+
+h3{
+            color: #11999E;
+}
+
+.btn{
+           color: #11999E;
+}
+
+.footer-link{
+            color: #11999E;
+}
